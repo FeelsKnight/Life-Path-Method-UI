@@ -1,9 +1,9 @@
 # Life-Path-Method-UI
-Rolls for D&amp;D characters on /u/hornbook1776's Life Paths
+Rolls for DnD characters on /u/hornbook1776's Life Paths
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
-<p align="center" style=" margin-top:18px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt; font-weight:600;"># Life Path Method UI</span></p>
+<p align="center" style=" margin-top:18px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt; font-weight:600;">Life Path Method UI</span></p>
 <p align="center" style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt;">Original idea and tables by <a href="https://reddit.com/u/hornbook1776">/u/hornbook1776</a><br />programming by <a href="https://reddit.com/u/FeelsKnight">/u/FeelsKnight</a></span></p>
 </span></p></body></html>
 
