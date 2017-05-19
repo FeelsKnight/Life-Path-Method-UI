@@ -69,3 +69,7 @@ Clears all results.
 # Import this character to .txt button
 
 Creates a .txt file named Life Path Method [current date and time].txt and exports current character's information to it.
+
+# Copyrights
+
+Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
